@@ -325,6 +325,9 @@ https://github.com/projectdiscovery/httpx
 https://github.com/assetnote/kiterunner
 <br># Kiterunner is a tool that is capable of not only performing traditional content discovery at lightning fast speeds, but also bruteforcing routes/endpoints in modern applications.
 
+https://github.com/xmendez/wfuzz
+<br># Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+
 ### Parameter Bruteforcing
 https://github.com/s0md3v/Arjun
 <br># Arjun can find query parameters for URL endpoints.
